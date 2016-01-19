@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: reportesap
+        psr4_prefix: reportesap
+        src_path: app
